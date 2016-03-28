@@ -7,4 +7,4 @@ Live app can be found at:
 https://jleslie17.shinyapps.io/GearRatios
 
 And the sales pitch is here:
-http://rpubs.com/jleslie17/111265
+http://rpubs.com/jleslie17/165843
